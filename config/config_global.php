@@ -4,9 +4,9 @@
 $_config = array();
 
 // ----------------------------  CONFIG DB  ----------------------------- //
-$_config['db']['1']['dbhost'] = 'localhost';
-$_config['db']['1']['dbuser'] = 'root';
-$_config['db']['1']['dbpw'] = '';
+$_config['db']['1']['dbhost'] = '127.0.0.1';
+$_config['db']['1']['dbuser'] = 'apps';
+$_config['db']['1']['dbpw'] = 'Friday@appsProduct2015@Y@F';
 $_config['db']['1']['dbcharset'] = 'utf8';
 $_config['db']['1']['pconnect'] = '0';
 $_config['db']['1']['dbname'] = 'szd';

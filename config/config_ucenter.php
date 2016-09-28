@@ -3,9 +3,9 @@
 
 define('UC_CONNECT', 'mysql');
 
-define('UC_DBHOST', 'localhost');
-define('UC_DBUSER', 'root');
-define('UC_DBPW', '');
+define('UC_DBHOST', '127.0.0.1');
+define('UC_DBUSER', 'apps');
+define('UC_DBPW', 'Friday@appsProduct2015@Y@F');
 define('UC_DBNAME', 'szd');
 define('UC_DBCHARSET', 'utf8');
 define('UC_DBTABLEPRE', '`szd`.ucenter_');
